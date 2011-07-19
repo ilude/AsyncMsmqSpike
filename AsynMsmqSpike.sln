@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynMsmqSpike.Subscriber", "AsynMsmqSpike.Subscriber\AsynMsmqSpike.Subscriber.csproj", "{8DE8DEAF-433C-4B03-850A-5503B57C30E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynMsmqSpike.Publisher", "AsynMsmqSpike.Publisher\AsynMsmqSpike.Publisher.csproj", "{7A05CD01-DDB0-4590-AC16-4800F4501AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE8DEAF-433C-4B03-850A-5503B57C30E4}.Debug|x86.ActiveCfg = Debug|x86
+		{8DE8DEAF-433C-4B03-850A-5503B57C30E4}.Debug|x86.Build.0 = Debug|x86
+		{8DE8DEAF-433C-4B03-850A-5503B57C30E4}.Release|x86.ActiveCfg = Release|x86
+		{8DE8DEAF-433C-4B03-850A-5503B57C30E4}.Release|x86.Build.0 = Release|x86
+		{7A05CD01-DDB0-4590-AC16-4800F4501AD9}.Debug|x86.ActiveCfg = Debug|x86
+		{7A05CD01-DDB0-4590-AC16-4800F4501AD9}.Debug|x86.Build.0 = Debug|x86
+		{7A05CD01-DDB0-4590-AC16-4800F4501AD9}.Release|x86.ActiveCfg = Release|x86
+		{7A05CD01-DDB0-4590-AC16-4800F4501AD9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
